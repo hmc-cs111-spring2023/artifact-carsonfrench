@@ -1,5 +1,6 @@
-class Food(val name: String, val calories: Int)
-class Meal(val name: String, val foods: List[Food])
+class Food(val name: String, val calories: Int) // need to add a method that logs the food as well as tags
+class Meal(val name: String, val foods: List[Food]) // need to add a method that logs the meal
+// would tags be helpful for meals?
 
 def food(name: String, calories: Int) = Food(name, calories)
 def meal(name: String, foods: List[Food]) = Meal(name, foods)
