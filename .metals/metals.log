@@ -233,3 +233,788 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.04.14 00:00:34 INFO  Shutting down server
 2023.04.14 00:00:34 INFO  shutting down Metals
 2023.04.14 00:00:34 INFO  Exiting server
+2023.04.14 00:03:50 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.14 00:03:50 INFO  time: initialize in 0.73s
+2023.04.14 00:03:53 WARN  Build server is not auto-connectable.
+2023.04.14 00:03:53 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.14 00:03:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 00:04:01 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 00:04:06 INFO  time: code lens generation in 11s
+2023.04.14 00:04:09 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 00:04:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 15s
+2023.04.14 02:48:07 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.14 02:48:11 INFO  time: initialize in 4.22s
+2023.04.14 02:48:14 WARN  Build server is not auto-connectable.
+2023.04.14 02:48:14 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.14 02:48:14 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:48:34 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 02:48:34 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 02:48:35 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 20s
+2023.04.14 02:48:37 INFO  time: code lens generation in 21s
+2023.04.14 02:48:37 INFO  time: code lens generation in 17s
+2023.04.14 02:49:20 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:49:21 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.72s
+2023.04.14 02:49:25 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+Apr 14, 2023 2:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2023.04.14 02:49:26 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.21s
+2023.04.14 02:49:46 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:2: 
+Not found: fu
+ fu
+ ^^
+2023.04.14 02:49:46 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 02:49:47 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:49:48 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.05s
+2023.04.14 02:49:52 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:49:53 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.42s
+2023.04.14 02:49:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:49:56 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.19s
+2023.04.14 02:49:56 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: identifier expected but end of file found
+def 
+    ^
+2023.04.14 02:49:57 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.6s
+2023.04.14 02:49:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: Procedure syntax is not supported. Convert procedure `food` to method by adding `: Unit =`.
+def food
+    ^^^^
+2023.04.14 02:49:59 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.61s
+2023.04.14 02:49:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: Procedure syntax is not supported. Convert procedure `food` to method by adding `: Unit =`.
+def food()
+    ^^^^
+2023.04.14 02:50:00 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.38s
+Apr 14, 2023 2:50:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+2023.04.14 02:50:07 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:13: : expected but ) found
+def food(foo)
+            ^
+2023.04.14 02:50:08 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.35s
+2023.04.14 02:50:09 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:16: identifier expected but ) found
+def food(food: )
+               ^
+2023.04.14 02:50:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.46s
+2023.04.14 02:50:12 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: Procedure syntax is not supported. Convert procedure `food` to method by adding `: Unit =`.
+def food(food: Food)
+    ^^^^
+2023.04.14 02:50:12 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 02:50:22 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:16: identifier expected but ) found
+def food(name: )
+               ^
+2023.04.14 02:50:23 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.61s
+2023.04.14 02:50:25 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:24: identifier expected but ) found
+def food(name: String, )
+                       ^
+2023.04.14 02:50:25 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.37s
+2023.04.14 02:50:31 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:32: : expected but ) found
+def food(name: String, calories)
+                               ^
+2023.04.14 02:50:31 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.51s
+Apr 14, 2023 2:50:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2023.04.14 02:50:33 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: Procedure syntax is not supported. Convert procedure `food` to method by adding `: Unit =`.
+def food(name: String, calories: Int)
+    ^^^^
+2023.04.14 02:50:33 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.35s
+2023.04.14 02:50:35 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: Procedure syntax is not supported. Convert procedure `food` to method by adding `: Unit =`.
+def food(name: String, calories: Int)
+    ^^^^
+2023.04.14 02:50:35 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.37s
+2023.04.14 02:50:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:41: illegal start of simple expression
+def food(name: String, calories: Int) = 
+                                        ^
+2023.04.14 02:50:45 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 02:50:50 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:50:51 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.77s
+2023.04.14 02:51:19 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: = expected but } found
+}
+^
+2023.04.14 02:51:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.46s
+2023.04.14 02:51:22 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:16: 
+constructor proxy object Food cannot be used as a value
+    val name = Food
+               ^^^^
+2023.04.14 02:51:22 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.28s
+2023.04.14 02:51:23 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:16: 
+missing argument for parameter calories of constructor Food in class Food: (calories: Int): MdocApp.this.Food
+    val name = Food()
+               ^^^^^^
+2023.04.14 02:51:23 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.2s
+2023.04.14 02:52:13 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:5: 
+missing argument for parameter calories of constructor Food in class Food: (calories: Int): MdocApp.this.Food
+    Food()
+    ^^^^^^
+2023.04.14 02:52:13 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.22s
+2023.04.14 02:52:46 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:1:19: : expected but identifier found
+class Food(valval calories: Int)
+                  ^^^^^^^^
+2023.04.14 02:52:46 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 02:52:48 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:1:24: : expected but identifier found
+class Food(val nameval calories: Int)
+                       ^^^^^^^^
+2023.04.14 02:52:49 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.28s
+Apr 14, 2023 2:52:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+2023.04.14 02:52:52 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:1:40: identifier expected but : found
+class Food(val name: Stringval calories: Int)
+                                       ^
+2023.04.14 02:52:52 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 02:52:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:4:20: 
+Found:    (100 : Int)
+Required: String
+val cheetos = Food(100)
+                   ^^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:5:18: 
+Found:    (10 : Int)
+Required: String
+val apple = Food(10)
+                 ^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:19: 
+Found:    (20 : Int)
+Required: String
+val orange = Food(20)
+                  ^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:5: 
+missing argument for parameter name of constructor Food in class Food: (name: String, calories: Int): MdocApp.this.Food
+    Food()
+    ^^^^^^
+2023.04.14 02:52:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.31s
+2023.04.14 02:53:11 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:4:1: 
+Not found: cheetos
+cheetos.calories
+^^^^^^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:7:5: 
+missing argument for parameter name of constructor Food in class Food: (name: String, calories: Int): MdocApp.this.Food
+    Food()
+    ^^^^^^
+2023.04.14 02:53:11 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.14s
+2023.04.14 02:53:18 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:5: 
+missing argument for parameter name of constructor Food in class Food: (name: String, calories: Int): MdocApp.this.Food
+    Food()
+    ^^^^^^
+2023.04.14 02:53:19 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.18s
+Apr 14, 2023 2:53:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 442
+2023.04.14 02:53:26 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:16: illegal start of simple expression
+    Food(name, )
+               ^
+2023.04.14 02:53:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.47s
+2023.04.14 02:53:29 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:53:29 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.31s
+2023.04.14 02:53:37 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:1: 
+Not found: f
+f
+^
+2023.04.14 02:53:37 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.16s
+2023.04.14 02:53:43 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:6: 
+Not found: pasta
+food(pasta, 100)
+     ^^^^^
+2023.04.14 02:53:43 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.15s
+2023.04.14 02:53:47 INFO  file:///workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:6: stale mdoc error:
+Not found: pasta
+food(pasta, 100)
+     ^^^^^
+2023.04.14 02:53:47 INFO  file:///workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:6: stale mdoc error:
+Not found: pasta
+food(pasta, 100)
+     ^^^^^
+2023.04.14 02:53:49 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:53:49 INFO  file:///workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:6: stale mdoc error:
+Not found: pasta
+food(pasta, 100)
+     ^^^^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:6: unclosed string literal
+food("pasta, 100)
+     ^
+2023.04.14 02:53:49 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 02:53:51 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:53:51 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.41s
+2023.04.14 02:55:19 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:21: 
+Recursive value name needs type
+    val name = Food(name, calories)
+                    ^
+2023.04.14 02:55:19 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.12s
+2023.04.14 02:55:38 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:13: = expected but . found
+    val name. = Food(name, calories)
+            ^
+2023.04.14 02:55:38 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 02:55:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:9: 
+value to is not a member of String.
+Extension methods were tried, but the search failed with:
+
+    wrapString cannot be used as an extractor in a pattern because it lacks an unapply or unapplySeq method
+    val name.to = Food(name, calories)
+        ^^^^^^^
+2023.04.14 02:55:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 02:55:58 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:6:13: = expected but . found
+    val name. = Food(name, calories)
+            ^
+2023.04.14 02:55:58 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.22s
+2023.04.14 02:56:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:56:02 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.35s
+2023.04.14 02:56:12 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:56:13 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.34s
+2023.04.14 02:56:17 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:5: Procedure syntax is not supported. Convert procedure `meal` to method by adding `: Unit =`.
+def meal()
+    ^^^^
+2023.04.14 02:56:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.14 02:56:50 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:2:20: : expected but , found
+class Meal(val name,val foods: List[Food])
+                   ^
+2023.04.14 02:56:51 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.2s
+2023.04.14 02:56:52 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:2:24: : expected but identifier found
+class Meal(val nameval foods: List[Food])
+                       ^^^^^
+2023.04.14 02:56:52 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 02:57:16 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:5: Procedure syntax is not supported. Convert procedure `meal` to method by adding `: Unit =`.
+def meal()
+    ^^^^
+2023.04.14 02:57:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.18s
+2023.04.14 02:57:25 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:15: identifier expected but ) found
+def meal(name:)
+              ^
+2023.04.14 02:57:25 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.25s
+2023.04.14 02:57:29 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:24: identifier expected but ) found
+def meal(name: String, )
+                       ^
+2023.04.14 02:57:29 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.2s
+2023.04.14 02:57:37 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:29: : expected but ) found
+def meal(name: String, foods)
+                            ^
+2023.04.14 02:57:37 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 02:57:39 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:5: Procedure syntax is not supported. Convert procedure `meal` to method by adding `: Unit =`.
+def meal(name: String, foods: List)
+    ^^^^
+2023.04.14 02:57:39 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.14 02:57:42 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:36: identifier expected but ] found
+def meal(name: String, foods: List[])
+                                   ^
+2023.04.14 02:57:42 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 02:57:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:5: Procedure syntax is not supported. Convert procedure `meal` to method by adding `: Unit =`.
+def meal(name: String, foods: List[Food])
+    ^^^^
+2023.04.14 02:57:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.32s
+2023.04.14 02:57:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:57:53 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.29s
+2023.04.14 02:58:00 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:10:5: 
+constructor proxy object Meal cannot be used as a value
+    Meal
+    ^^^^
+2023.04.14 02:58:00 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.13s
+2023.04.14 02:58:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:10:5: 
+missing argument for parameter name of constructor Meal in class Meal: (name: String, foods: List[MdocApp.this.Food]): MdocApp.this.Meal
+    Meal()
+    ^^^^^^
+2023.04.14 02:58:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.17s
+2023.04.14 02:58:05 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:10:16: 
+Not found: foo
+    Meal(name, foo)
+               ^^^
+2023.04.14 02:58:05 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 02:58:06 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:58:07 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.28s
+2023.04.14 02:58:09 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:58:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.35s
+2023.04.14 02:58:14 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:58:15 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 02:58:18 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 02:58:19 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.43s
+2023.04.14 02:58:20 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: 
+missing argument for parameter name of method meal in class MdocApp: (name: String, foods: List[MdocApp.this.Food]): MdocApp.this.Meal
+meal()
+^^^^^^
+2023.04.14 02:58:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.18s
+2023.04.14 02:58:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: 
+missing argument for parameter foods of method meal in class MdocApp: (name: String, foods: List[MdocApp.this.Food]): MdocApp.this.Meal
+meal("")
+^^^^^^^^
+2023.04.14 02:58:24 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.13s
+Apr 14, 2023 2:58:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 986
+Apr 14, 2023 2:58:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 991
+2023.04.14 02:58:27 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: 
+missing argument for parameter foods of method meal in class MdocApp: (name: String, foods: List[MdocApp.this.Food]): MdocApp.this.Meal
+meal("breakfast")
+^^^^^^^^^^^^^^^^^
+2023.04.14 02:58:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.22s
+2023.04.14 02:58:29 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:19: illegal start of simple expression
+meal("breakfast", )
+                  ^
+2023.04.14 02:58:30 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.14 02:58:32 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:19: 
+Found:    collection.immutable.List.type
+Required: List[MdocApp.this.Food]
+meal("breakfast", List)
+                  ^^^^
+2023.04.14 02:58:33 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.16s
+2023.04.14 02:58:34 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:24: identifier expected but ] found
+meal("breakfast", List[])
+                       ^
+2023.04.14 02:58:34 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.18s
+2023.04.14 02:59:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:24: 
+Not found: type food
+meal("breakfast", List[food])
+                       ^^^^
+2023.04.14 02:59:24 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.12s
+2023.04.14 02:59:27 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple")])
+                           ^
+2023.04.14 02:59:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+2023.04.14 02:59:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10)])
+                           ^
+2023.04.14 02:59:31 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+2023.04.14 02:59:47 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), ])
+                           ^
+2023.04.14 02:59:47 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.2s
+2023.04.14 02:59:49 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food()])
+                           ^
+2023.04.14 02:59:49 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+Apr 14, 2023 2:59:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1137
+2023.04.14 02:59:52 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange")])
+                           ^
+2023.04.14 02:59:53 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.48s
+2023.04.14 02:59:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange, ")])
+                           ^
+2023.04.14 02:59:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.22s
+2023.04.14 02:59:57 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", )])
+                           ^
+2023.04.14 02:59:58 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.17s
+2023.04.14 02:59:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 02:59:59 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.19s
+2023.04.14 03:02:17 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:15:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 03:02:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:02:21 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:5: Procedure syntax is not supported. Convert procedure `calories` to method by adding `: Unit =`.
+def calories
+    ^^^^^^^^
+2023.04.14 03:02:21 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.24s
+2023.04.14 03:02:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:5: Procedure syntax is not supported. Convert procedure `calories` to method by adding `: Unit =`.
+def calories()
+    ^^^^^^^^
+2023.04.14 03:02:24 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:02:33 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:5: Procedure syntax is not supported. Convert procedure `calories` to method by adding `: Unit =`.
+def calories(food: Food)
+    ^^^^^^^^
+2023.04.14 03:02:33 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.15s
+2023.04.14 03:02:37 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 03:02:38 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 03:02:41 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 03:02:41 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.16s
+2023.04.14 03:02:43 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 03:02:43 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.17s
+2023.04.14 03:02:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:16:11: = expected but identifier found
+def pasta food("pasta", 100)
+          ^^^^
+2023.04.14 03:02:53 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.2s
+2023.04.14 03:02:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:28: ] expected but ( found
+meal("breakfast", List[food("apple", 10), food("orange", 20)])
+                           ^
+2023.04.14 03:02:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:03:00 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:29: ] expected but ) found
+meal("breakfast", List[pasta)
+                            ^
+2023.04.14 03:03:00 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.16s
+2023.04.14 03:03:02 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:17:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:02 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.18s
+2023.04.14 03:03:13 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:13 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.1s
+2023.04.14 03:03:18 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:16:9: 
+expression expected but = found
+v pasta = food("pasta", 100)
+        ^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:16:1: 
+Not found: v
+v pasta = food("pasta", 100)
+^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:18 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+2023.04.14 03:03:19 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:16:10: 
+expression expected but = found
+va pasta = food("pasta", 100)
+         ^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:16:1: 
+Not found: va
+va pasta = food("pasta", 100)
+^^
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:19 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+2023.04.14 03:03:21 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:21 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.12s
+2023.04.14 03:03:27 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:24: 
+Not found: type pasta
+meal("breakfast", List[pasta])
+                       ^^^^^
+2023.04.14 03:03:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 96ms
+Apr 14, 2023 3:03:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1419
+2023.04.14 03:04:00 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:18:29: ) expected but ] found
+meal("breakfast", List(pasta])
+                            ^
+2023.04.14 03:04:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.24s
+2023.04.14 03:04:04 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:04:04 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.26s
+2023.04.14 03:04:47 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.14 03:04:48 INFO  time: initialize in 0.83s
+2023.04.14 03:04:51 WARN  Build server is not auto-connectable.
+2023.04.14 03:04:51 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.14 03:04:51 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+Apr 14, 2023 3:04:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 14, 2023 3:04:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 14, 2023 3:04:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 14, 2023 3:04:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.04.14 03:04:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+Apr 14, 2023 3:04:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Apr 14, 2023 3:04:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2023.04.14 03:04:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:02 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 03:05:04 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:07 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:07 INFO  time: code lens generation in 14s
+2023.04.14 03:05:07 INFO  time: code lens generation in 14s
+2023.04.14 03:05:07 INFO  time: code lens generation in 3.98s
+2023.04.14 03:05:07 INFO  time: code lens generation in 1.34s
+2023.04.14 03:05:07 INFO  time: code lens generation in 4.41s
+2023.04.14 03:05:07 INFO  time: code lens generation in 14s
+2023.04.14 03:05:09 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.14 03:05:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 17s
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:1: illegal start of simple expression
+val pasta = food("pasta", 100)
+^^^
+2023.04.14 03:05:10 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.18s
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:28: 
+Not found: f
+def calories(food: Food) = f
+                           ^
+2023.04.14 03:05:11 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.76s
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:1: identifier expected but val found
+val pasta = food("pasta", 100)
+^^^
+2023.04.14 03:05:12 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.05s
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:28: 
+value cal is not a member of MdocApp.this.Food
+def calories(food: Food) = food.cal
+                           ^^^^^^^^
+2023.04.14 03:05:12 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.78s
+2023.04.14 03:05:14 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:15 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.27s
+2023.04.14 03:05:16 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.97s
+2023.04.14 03:05:23 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:24 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.99s
+2023.04.14 03:05:29 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:30 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.86s
+2023.04.14 03:05:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:31 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.91s
+2023.04.14 03:05:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:05:55 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.91s
+2023.04.14 03:06:00 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:06:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.03s
+Apr 14, 2023 3:06:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+2023.04.14 03:06:02 INFO  time: code lens generation in 1.41s
+2023.04.14 03:06:04 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:5: Procedure syntax is not supported. Convert procedure `calories` to method by adding `: Unit =`.
+def calories()
+    ^^^^^^^^
+2023.04.14 03:06:05 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.53s
+2023.04.14 03:06:06 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:18: : expected but ) found
+def calories(meal)
+                 ^
+2023.04.14 03:06:06 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.56s
+2023.04.14 03:06:11 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:11:5: Procedure syntax is not supported. Convert procedure `calories` to method by adding `: Unit =`.
+def calories(meal: Meal)
+    ^^^^^^^^
+2023.04.14 03:06:11 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.32s
+2023.04.14 03:06:13 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:1: illegal start of simple expression
+val pasta = food("pasta", 100)
+^^^
+2023.04.14 03:06:14 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.31s
+2023.04.14 03:06:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:06:25 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.81s
+2023.04.14 03:06:32 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:12:5: 
+Not found: total
+    total 
+    ^^^^^
+2023.04.14 03:06:32 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:06:38 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:06:39 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.82s
+2023.04.14 03:06:40 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:06:40 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.59s
+2023.04.14 03:06:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: illegal start of simple pattern
+}
+^
+2023.04.14 03:06:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 03:06:52 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: illegal start of simple pattern
+}
+^
+2023.04.14 03:06:52 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.56s
+2023.04.14 03:06:55 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:21: <- expected but . found
+    for food in meal.
+                    ^
+2023.04.14 03:06:55 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 03:06:57 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: <- expected but } found
+}
+^
+2023.04.14 03:06:58 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.34s
+2023.04.14 03:07:23 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: ) expected but } found
+}
+^
+2023.04.14 03:07:23 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.46s
+2023.04.14 03:07:26 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:14:1: <- expected but } found
+}
+^
+2023.04.14 03:07:26 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.32s
+2023.04.14 03:07:28 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:28 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 03:07:34 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:35 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.35s
+2023.04.14 03:07:36 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:37 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.14 03:07:39 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:40 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.14 03:07:42 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:42 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.29s
+2023.04.14 03:07:45 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:45 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.24s
+2023.04.14 03:07:50 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:07:50 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.46s
+2023.04.14 03:07:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:08:00 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.14 03:08:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:13:30: <- expected but { found
+    for (food in meal.foods) {
+                             ^
+2023.04.14 03:08:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.22s
+2023.04.14 03:08:41 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:08:41 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.66s
+2023.04.14 03:08:50 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:08:50 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.45s
+2023.04.14 03:08:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:21:31: 
+missing argument for parameter name of method food in class MdocApp: (name: String, calories: Int): MdocApp.this.Food
+meal("breakfast", List(pasta, food()))
+                              ^^^^^^
+2023.04.14 03:08:59 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.28s
+2023.04.14 03:09:00 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:21:31: 
+missing argument for parameter calories of method food in class MdocApp: (name: String, calories: Int): MdocApp.this.Food
+meal("breakfast", List(pasta, food("")))
+                              ^^^^^^^^
+2023.04.14 03:09:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.33s
+2023.04.14 03:09:03 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:21:31: 
+missing argument for parameter calories of method food in class MdocApp: (name: String, calories: Int): MdocApp.this.Food
+meal("breakfast", List(pasta, food("pizza")))
+                              ^^^^^^^^^^^^^
+2023.04.14 03:09:04 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.29s
+2023.04.14 03:09:07 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:09:07 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.49s
+2023.04.14 03:09:08 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:09:08 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.4s
+2023.04.14 03:09:12 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:09:13 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.55s
+2023.04.14 03:09:17 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:24:1: 
+Ambiguous overload. The overloaded alternatives of method calories in class MdocApp with types
+ (meal: MdocApp.this.Meal): Int
+ (food: MdocApp.this.Food): Int
+both match expected type <?>
+calories
+^^^^^^^^
+2023.04.14 03:09:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:09:20 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:24:10: 
+Not found: breakfast
+calories(breakfast)
+         ^^^^^^^^^
+2023.04.14 03:09:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.21s
+2023.04.14 03:09:35 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:22:1: = expected but \n\n found
+
+^
+2023.04.14 03:09:36 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.56s
+2023.04.14 03:09:41 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:09:41 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.82s
+2023.04.14 03:11:03 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:04 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.72s
+2023.04.14 03:11:08 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.71s
+2023.04.14 03:11:12 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:12 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.58s
+2023.04.14 03:11:14 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:14 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.68s
+2023.04.14 03:11:16 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:16 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.64s
+2023.04.14 03:11:19 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.56s
+2023.04.14 03:11:21 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:21 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.63s
+2023.04.14 03:11:31 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:11:32 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.56s
+2023.04.14 03:11:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.14 03:12:00 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.71s
+Apr 14, 2023 3:12:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

@@ -1,14 +1,20 @@
-class Food(val calories: Int)
-class Meal(val foods: List[Food])
+class Food(val name: String, val calories: Int)
+class Meal(val name: String, val foods: List[Food])
 
-val cheetos = Food(100)
-val apple = Food(10)
-val orange = Food(20)
+def food(name: String, calories: Int) = Food(name, calories)
+def meal(name: String, foods: List[Food]) = Meal(name, foods)
 
-val lunch = Meal(List(cheetos, apple, orange))
+def calories(food: Food) = food.calories
+def calories(meal: Meal) = {
+    var total = 0
+    for (food <- meal.foods) {
+        total += food.calories
+    }
+    total
+}
 
-cheetos.calories
+val pasta = food("pasta", 100)
+val breakfast = meal("breakfast", List(pasta, food("pizza", 200)))
 
-var foods = List("apple", "banana", "orange")
-
-foods.getClass
+calories(pasta)
+calories(breakfast)
