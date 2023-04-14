@@ -16,3 +16,217 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.04.13 17:48:17 INFO  Shutting down server
 2023.04.13 17:48:17 INFO  shutting down Metals
 2023.04.13 17:48:17 INFO  Exiting server
+2023.04.13 23:23:18 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 23:23:19 INFO  time: initialize in 0.73s
+2023.04.13 23:23:22 WARN  Build server is not auto-connectable.
+2023.04.13 23:23:22 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:23:22 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:23:47 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:23:47 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:23:47 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 25s
+2023.04.13 23:24:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/Main.scala
+Apr 13, 2023 11:24:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.04.13 23:26:06 INFO  Shutting down server
+2023.04.13 23:26:06 INFO  shutting down Metals
+2023.04.13 23:26:06 INFO  Exiting server
+2023.04.13 23:26:24 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 23:26:25 INFO  time: initialize in 0.89s
+2023.04.13 23:26:28 WARN  Build server is not auto-connectable.
+2023.04.13 23:26:28 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:26:28 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:26:39 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:26:43 INFO  time: code lens generation in 15s
+2023.04.13 23:26:46 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:26:46 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 17s
+2023.04.13 23:30:57 INFO  Shutting down server
+2023.04.13 23:30:57 INFO  shutting down Metals
+2023.04.13 23:30:57 INFO  Exiting server
+2023.04.13 23:31:16 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 23:31:17 INFO  time: initialize in 1.14s
+2023.04.13 23:31:20 WARN  Build server is not auto-connectable.
+2023.04.13 23:31:20 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:31:20 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:31:39 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:31:39 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:31:40 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 19s
+2023.04.13 23:31:41 INFO  time: code lens generation in 21s
+2023.04.13 23:33:24 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:33:33 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+Apr 13, 2023 11:40:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.13 23:41:26 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:41:26 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:41:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:41:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:41:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:41:30 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:41:34 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:41:34 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:41:34 WARN  Build server is not auto-connectable.
+2023.04.13 23:41:35 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:41:35 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/build.sbt
+2023.04.13 23:41:37 INFO  compilation cancelled
+2023.04.13 23:41:52 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:41:55 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:45:48 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/test/scala/MySuite.scala
+2023.04.13 23:53:37 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:53:40 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 2.83s
+2023.04.13 23:53:40 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:53:42 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.57s
+2023.04.13 23:53:42 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:53:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.41s
+2023.04.13 23:54:13 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+Apr 13, 2023 11:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2023.04.13 23:54:15 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.15s
+Apr 13, 2023 11:54:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 96
+2023.04.13 23:54:16 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:17 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.17s
+2023.04.13 23:54:27 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.81s
+2023.04.13 23:54:35 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:36 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.18s
+2023.04.13 23:54:41 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:5:13: 
+missing argument for parameter calories of constructor Food in class Food: (calories: Int): MdocApp.this.Food
+val apple = Food()
+            ^^^^^^
+2023.04.13 23:54:42 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.69s
+2023.04.13 23:54:43 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.75s
+2023.04.13 23:54:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:45 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 1.09s
+2023.04.13 23:54:49 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:7:1: = expected but \n\n found
+
+^
+2023.04.13 23:54:49 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.59s
+2023.04.13 23:54:50 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:7:1: = expected but \n\n found
+
+^
+2023.04.13 23:54:50 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.37s
+2023.04.13 23:54:54 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.52s
+2023.04.13 23:54:59 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:54:59 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.67s
+2023.04.13 23:55:03 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:55:03 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.76s
+2023.04.13 23:55:04 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:55:05 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.65s
+2023.04.13 23:55:13 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:1: 
+constructor proxy object Meal cannot be used as a value
+Meal
+^^^^
+2023.04.13 23:55:14 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.3s
+2023.04.13 23:55:18 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:55:18 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.64s
+2023.04.13 23:55:27 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:1: = expected but \n\n found
+
+^
+2023.04.13 23:55:28 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.29s
+2023.04.13 23:55:29 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:9:1: = expected but \n\n found
+
+^
+2023.04.13 23:55:29 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.27s
+2023.04.13 23:55:31 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:55:31 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.57s
+2023.04.13 23:55:36 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:13: 
+missing argument for parameter foods of constructor Meal in class Meal: (foods: List[MdocApp.this.Food]): MdocApp.this.Meal
+val lunch = Meal()
+            ^^^^^^
+2023.04.13 23:55:36 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+2023.04.13 23:55:44 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:34: 
+Not found: arange
+val lunch = Meal(cheetos, apple, arange)
+                                 ^^^^^^
+2023.04.13 23:55:44 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.23s
+Apr 13, 2023 11:55:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 511
+2023.04.13 23:55:48 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:18: 
+Found:    (MdocApp.this.Food, MdocApp.this.Food, MdocApp.this.Food)
+Required: List[MdocApp.this.Food]
+val lunch = Meal(cheetos, apple, orange)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.13 23:55:48 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.34s
+2023.04.13 23:55:53 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:41: ; expected but ] found
+val lunch = Meal(cheetos, apple, orange)]
+                                        ^
+2023.04.13 23:55:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.34s
+2023.04.13 23:55:55 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:40: ) expected but ] found
+val lunch = Meal(cheetos, apple, orange])]
+                                       ^
+2023.04.13 23:55:55 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.31s
+2023.04.13 23:55:58 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:40: ) expected but ] found
+val lunch = Meal(cheetos, apple, orange])
+                                       ^
+2023.04.13 23:55:58 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.24s
+2023.04.13 23:56:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:42: => expected but ) found
+val lunch = Meal([cheetos, apple, orange])
+                                         ^
+2023.04.13 23:56:01 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.25s
+2023.04.13 23:56:20 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:44: ) expected but ] found
+val lunch = Meal(Listcheetos, apple, orange])
+                                           ^
+2023.04.13 23:56:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.31s
+2023.04.13 23:56:22 INFO  time: code lens generation in 1.5s
+Apr 13, 2023 11:56:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 603
+Apr 13, 2023 11:56:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+2023.04.13 23:56:22 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+[31merror[39m: scalorie-tracker/src/main/scala/worksheet.worksheet.sc:8:45: ) expected but ] found
+val lunch = Meal(List(cheetos, apple, orange])
+                                            ^
+2023.04.13 23:56:22 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.24s
+2023.04.13 23:56:25 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:56:26 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.47s
+2023.04.13 23:58:57 INFO  Shutting down server
+2023.04.13 23:58:57 INFO  shutting down Metals
+2023.04.13 23:58:57 INFO  Exiting server
+2023.04.13 23:59:15 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 23:59:16 INFO  time: initialize in 0.98s
+2023.04.13 23:59:19 WARN  Build server is not auto-connectable.
+2023.04.13 23:59:19 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.13 23:59:19 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.13 23:59:38 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:59:38 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.13 23:59:38 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 19s
+2023.04.13 23:59:41 INFO  time: code lens generation in 20s
