@@ -2313,3 +2313,7 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.04.15 22:12:01 WARN  Build server is not auto-connectable.
 2023.04.15 22:12:01 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2023.04.15 22:12:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.15 22:12:15 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.15 22:12:20 INFO  time: code lens generation in 17s
+2023.04.15 22:12:20 INFO  no build target found for /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.15 22:12:20 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 18s
