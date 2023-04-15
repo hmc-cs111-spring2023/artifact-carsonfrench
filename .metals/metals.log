@@ -2310,3 +2310,6 @@ SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or 
 SLF4J: Ignoring binding found at [jar:file:/home/codespace/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.04.15 22:11:58 INFO  time: initialize in 0.85s
+2023.04.15 22:12:01 WARN  Build server is not auto-connectable.
+2023.04.15 22:12:01 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.15 22:12:01 WARN  no build target for: /workspaces/artifact-carsonfrench/scalorie-tracker/src/main/scala/worksheet.worksheet.sc
