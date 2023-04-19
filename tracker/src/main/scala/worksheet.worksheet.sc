@@ -1,26 +1,24 @@
+//handles reading and writing the csv files
 import java.io.File
 import kantan.csv._         // All kantan.csv types.
 import kantan.csv.ops._     // Enriches types with useful methods.
 import kantan.csv.generic._ // Automatic derivation of codecs.
 
+//handles the date and time
 import com.github.nscala_time.time.Imports._
 
+//
 class Food(val name: String, val calories: Int, val tags: String*) { // need to maybe switch the type to List[String]
     
     var tagList : List[String] = List()
     
     for (i <- tags) tagList :+ i
     new File("food").asCsvWriter[String, Int, List[String]](rfc).write(name, calories, tagList).close() //still need to account for overwriting existing foods
-    
     def addTag(tag: String) = tagList:+tag
+    new File("foods_tracked.csv").asCsvWriter[String, DateTime](rfc).write(name,DateTime.now()).close()
 
-    def log = new File("foods_tracked.csv").asCsvWriter[String, DateTime](rfc).write(name,DateTime.now()).close()
-
-    log
-
-
-} // need to add a method that logs the food as well as tags
-class Meal(val name: String, val foods: List[Food]) // need to add a method that logs the meal
+} 
+class Meal(val name: String, val foods: String*, val newFoods: Food*) // need to add a method that logs the meal
 // would tags be helpful for meals?
 
 def food(name: String, calories: Int, tags: String*) = {
