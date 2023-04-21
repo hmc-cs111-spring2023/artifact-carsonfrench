@@ -1182,3 +1182,615 @@ Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException:
 2023.04.19 21:29:51 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
 Apr 19, 2023 9:30:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.04.19 21:30:33 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
+2023.04.19 21:49:33 INFO  Shutting down server
+2023.04.19 21:49:33 INFO  shutting down Metals
+2023.04.19 21:49:33 INFO  Exiting server
+2023.04.21 17:19:39 INFO  Started: Metals version 0.11.11 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/sbtuser/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.21 17:19:40 INFO  time: initialize in 0.94s
+2023.04.21 17:19:42 WARN  Build server is not auto-connectable.
+2023.04.21 17:19:42 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.21 17:19:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+Apr 21, 2023 5:19:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.04.21 17:19:49 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2023.04.21 17:19:49 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/time.scala
+2023.04.21 17:19:49 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Apr 21, 2023 5:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2023.04.21 17:19:49 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
+2023.04.21 17:19:52 INFO  time: code lens generation in 2.68s
+2023.04.21 17:19:52 INFO  time: code lens generation in 2.88s
+2023.04.21 17:19:52 INFO  time: code lens generation in 3s
+2023.04.21 17:19:52 INFO  time: code lens generation in 9.22s
+2023.04.21 17:19:52 INFO  time: code lens generation in 3.01s
+2023.04.21 17:20:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:20:06 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/time.scala
+2023.04.21 17:20:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
+2023.04.21 17:20:35 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:20:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:20:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:20:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:21:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:16 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:19 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:28 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:30 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:34 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:38 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:40 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:23:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:24:41 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:24:43 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:24:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:24:52 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:24:53 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.21 17:25:28 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
+2023.04.21 17:26:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:26:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/worksheet2.worksheet.sc
+Apr 21, 2023 5:26:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 357
+Apr 21, 2023 5:26:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2023.04.21 17:26:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/worksheet.worksheet.sc
+2023.04.21 17:27:06 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/worksheet2.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.21 17:27:06 INFO  time: evaluated worksheet 'worksheet2.worksheet.sc' in 10s
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:21:48: 
+an identifier expected, but ',' found
+class Meal(val name: String, val foods: String*, val newFoods: Food*) // need to add a method that logs the meal
+                                               ^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:3:8: 
+Not found: kantan
+import kantan.csv._         // All kantan.csv types.
+       ^^^^^^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:3:23: 
+Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+import kantan.csv._         // All kantan.csv types.
+                      ^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:3:27: 
+Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+import kantan.csv._         // All kantan.csv types.
+                          ^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:4:8: 
+
+  (<error Not found: kantan>#csv.kantan.csv.ops : 
+    
+  <error Not found: kantan>)
+ is not a valid import prefix, since it is not an immutable path
+import kantan.csv.ops._     // Enriches types with useful methods.
+       ^^^^^^^^^^^^^^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:4:27: 
+Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+import kantan.csv.ops._     // Enriches types with useful methods.
+                          ^
+[31merror[39m: 
+worksheet.worksheet.sc:15 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(4, 0, 4, 27);
+
+
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:5:8: 
+
+  (<error Not found: kantan>#csv.kantan.csv.generic
+     : 
+  <error Not found: kantan>)
+ is not a valid import prefix, since it is not an immutable path
+import kantan.csv.generic._ // Automatic derivation of codecs.
+       ^^^^^^^^^^^^^^^^^^
+[31merror[39m: 
+worksheet.worksheet.sc:17 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:18 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(7, 0, 7, 44);
+
+
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:8:8: 
+
+  (<error Not found: kantan>#csv.com.github.
+    nscala_time
+  .time.Imports : <error Not found: kantan>)
+ is not a valid import prefix, since it is not an immutable path
+import com.github.nscala_time.time.Imports._
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: 
+worksheet.worksheet.sc:20 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:21 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(10, 0, 19, 1);
+
+
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:13:19: 
+<error Not found: kantan>#csv.List
+   does not take type parameters
+    var tagList : List[String] = List()
+                  ^^^^^^^^^^^^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:16:47: 
+<error Not found: kantan>#csv.List
+   does not take type parameters
+    new File("food").asCsvWriter[String, Int, List[String]](rfc).write(name, calories, tagList).close() //still need to account for overwriting existing foods
+                                              ^^^^^^^^^^^^
+[31merror[39m: 
+worksheet.worksheet.sc:32 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:33 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(20, 0, 20, 69);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:35 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:36 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(23, 0, 27, 1);
+
+
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:25:19: 
+Reference to constructor proxy for class Food in class MdocApp
+shadows outer reference to value Food
+    val newFood = Food(name, calories)
+                  ^^^^
+[31merror[39m: 
+worksheet.worksheet.sc:42 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:43 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(30, 0, 30, 61);
+
+
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:31:31: 
+<error Not found: kantan>#csv.List
+   does not take type parameters
+def meal(name: String, foods: List[Food]) = Meal(name, foods)
+                              ^^^^^^^^^^
+[31merror[39m: tracker/src/main/scala/worksheet.worksheet.sc:31:45: 
+Reference to constructor proxy for class Meal in class MdocApp
+shadows outer reference to value Meal
+def meal(name: String, foods: List[Food]) = Meal(name, foods)
+                                            ^^^^
+[31merror[39m: 
+worksheet.worksheet.sc:45 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:46 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(33, 0, 33, 40);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:48 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:49 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(34, 0, 40, 1);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:57 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:58 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(42, 0, 42, 30);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:60 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.binder(pasta, 42, 4, 42, 9);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:61 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:62 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(43, 0, 43, 66);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:64 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.binder(breakfast, 43, 4, 43, 13);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:65 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:66 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(45, 0, 45, 15);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:69 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.binder(res0, 45, 0, 45, 15);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:70 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:71 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(46, 0, 46, 19);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:74 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.binder(res1, 46, 0, 46, 19);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:75 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:76 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.startStatement(49, 0, 49, 29);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:79 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.binder(res2, 49, 0, 49, 29);
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:80 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+worksheet.worksheet.sc:81 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import 
+  (<error Not found: kantan>#csv : 
+    <error Not found: kantan>
+  )
+._
+    $doc.endSection();
+
+
+2023.04.21 17:27:09 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/worksheet.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.21 17:27:09 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 2.76s
+2023.04.21 17:29:05 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:29:28 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:29:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 431
+2023.04.21 17:29:46 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:29:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:29:53 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+2023.04.21 17:30:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:30:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 537
+2023.04.21 17:30:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:30:16 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:14 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:31:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+2023.04.21 17:31:17 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:18 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:24 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:24 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:31:30 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:32:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:32:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:33:43 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:33:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:33:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 847
+2023.04.21 17:33:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:33:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:34:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:34:17 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:34:18 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:34:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 929
+Apr 21, 2023 5:34:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 930
+2023.04.21 17:34:35 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:34:39 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:34:46 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 5:34:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 998
+Apr 21, 2023 5:34:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 999
+2023.04.21 17:34:58 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:36:00 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:36:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:36:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:36:13 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.21 17:36:17 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 21, 2023 6:00:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

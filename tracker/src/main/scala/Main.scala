@@ -1,5 +1,6 @@
-@main def hello: Unit =
-  println("Hello world!")
-  println(msg)
+import com.github.nscala_time.time.Imports._
 
-def msg = "I was compiled by Scala 3. :)"
+@main def hello: Unit =
+  weight(150)
+  weight(230, now)
+  weight(235, now - 3.weeks)
