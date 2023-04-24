@@ -1,4 +1,5 @@
 import com.github.nscala_time.time.Imports._
+import scala.io.StdIn.readLine
 
 @main def hello: Unit =
   weight(150)
