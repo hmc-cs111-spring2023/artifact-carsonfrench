@@ -26,7 +26,7 @@ class Meal(val name: String, val foods: List[String]) {
     var foodList : List[Food] = List()
     for (food <- foods) {
         var newFood = loggedFoods.get(food)
-        if (newFood.isDefined) foodList :+ newFood.get
+        if (newFood.isDefined) foodList = newFood.get :: foodList
     }
     
     def log = meals = meals + (name -> this)
@@ -66,7 +66,9 @@ def food(name: String) : Food = {
 
 def meal(name: String, foods: String*) = {
     var foodList : List[String] = List()
-    for (food <- foods) foodList :+ food
+    for (food <- foods) {
+        foodList = food :: foodList
+    }
     val newMeal = Meal(name, foodList)
     newMeal.eat
     newMeal
@@ -83,7 +85,13 @@ def calories(meal: Meal) = {
     for (food <- meal.foodList) {
         total = total + food.calories
     }
-    println(total)
+    println(meal.name)
+    for (food <- meal.foodList) {
+        printf("%s: %d calories", food.name, food.calories)
+        println()
+    }
+    printf("Total: %d", total)
+    println()
 }
 def calories (name: String) : Unit = {
     val food = loggedFoods.get(name)

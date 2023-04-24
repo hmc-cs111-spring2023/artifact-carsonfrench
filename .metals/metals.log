@@ -2656,3 +2656,191 @@ WARNING: Unmatched cancel notification for request id 2202
 2023.04.24 21:06:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
 2023.04.24 21:06:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
 2023.04.24 21:06:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:07:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:34 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:41 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:51 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:07:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:11 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:13 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:21 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:30 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:33 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:35 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+Apr 24, 2023 9:08:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2680
+2023.04.24 21:08:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:08:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:09:34 INFO  Started: Metals version 0.11.12 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+Apr 24, 2023 9:09:34 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 24, 2023 9:09:34 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 24, 2023 9:09:34 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Apr 24, 2023 9:09:38 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/workspaces/artifact-carsonfrench/.metals/metals (H2 2.1)
+Apr 24, 2023 9:09:38 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.042s)
+Apr 24, 2023 9:09:38 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Apr 24, 2023 9:09:38 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.24 21:09:39 INFO  time: initialize in 4.53s
+2023.04.24 21:09:41 WARN  Build server is not auto-connectable.
+2023.04.24 21:09:41 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.24 21:09:41 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:09:47 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2023.04.24 21:09:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2023.04.24 21:09:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Apr 24, 2023 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2023.04.24 21:09:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:09:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:09:50 INFO  time: code lens generation in 2.7s
+2023.04.24 21:09:50 INFO  time: code lens generation in 2.51s
+2023.04.24 21:09:50 INFO  time: code lens generation in 2.58s
+2023.04.24 21:09:50 INFO  time: code lens generation in 2.77s
+2023.04.24 21:10:33 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:10:34 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:10:36 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:10:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:10:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:10:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.24 21:11:13 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:12:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+2023.04.24 21:12:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:12:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:12:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:12:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:12:46 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:12:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.24 21:12:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:12:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 251
+2023.04.24 21:12:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:12:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:01 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:13:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.24 21:13:08 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:33 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:36 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:13:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 425
+2023.04.24 21:13:54 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:13:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:10 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:18 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:19 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:23 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:14:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:06 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:11 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:23 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:25 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:32 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:16:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:17:05 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:17:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:17:16 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:17:43 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:05 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:19 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:39 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:54 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:19:58 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:20:19 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:20:53 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:20:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:06 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:08 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:29 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:21:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:22:00 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:22:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:01 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:24 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:23:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:24:01 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:24:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:24:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:24:09 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 24, 2023 9:24:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1322
+2023.04.24 21:24:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:25:21 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:25:25 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:25:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:25:28 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:25:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
