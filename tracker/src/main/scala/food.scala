@@ -51,7 +51,7 @@ def food(name: String) : Food = {
         println("How many tags would you like to enter?")
         val tagAmount = readInt()
         var newTag = ""
-        for (i <- 0 to tagAmount) {
+        for (i <- 0 to tagAmount-1) {
             println("Enter tag: ")
             newTag = readLine()
             newFood.addTag(newTag)

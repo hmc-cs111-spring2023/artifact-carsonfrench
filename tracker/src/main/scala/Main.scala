@@ -12,3 +12,8 @@ import scala.io.StdIn.readLine
   calories("hamburger")
   calories("hotdog")
   calories("BBQ")
+
+  meal("BBQ")
+  food("hotdog")
+
+  food("apple")
