@@ -3,7 +3,7 @@ import scala.io.StdIn._
 
 var loggedFoods : Map[String, Food] = Map.empty[String, Food]
 var foodsEaten : List[Tuple2[Food,DateTime]] = List()
-var meals : Map[String,List[Food]] = Map.empty[String,List[Food]]
+var meals : Map[String,Meal] = Map.empty[String,Meal]
 
 class Food(val name: String, val calories: Int) {
     
@@ -18,11 +18,23 @@ class Food(val name: String, val calories: Int) {
     def eat = foodsEaten :+ (this, now)
 
     log
-
 }
 
-class Meal(val name: String, val foods: List[String])  // maybe add tags?
+// maybe add tags?
+class Meal(val name: String, val foods: List[String]) {
 
+    var foodList : List[Food] = List()
+    for (food <- foods) {
+        var newFood = loggedFoods.get(food)
+        if (newFood.isDefined) foodList :+ newFood.get
+    }
+    
+    def log = meals = meals + (name -> this)
+
+    def eat = for(food <- foodList) food.eat
+    
+    log
+} 
 
 def food(name: String, calories: Int, tags: String*) : Food = {
     val newFood = Food(name, calories)
@@ -52,16 +64,34 @@ def food(name: String) : Food = {
     }
 }
 
-def meal(name: String, foods: String*) = 
-    var foodList : List[Food] = List()
-    foods.foreach(foodList)
-// def meal(name: String)
+def meal(name: String, foods: String*) = {
+    var foodList : List[String] = List()
+    for (food <- foods) foodList :+ food
+    val newMeal = Meal(name, foodList)
+    newMeal.eat
+    newMeal
+}
+def meal (name: String) = {
+    val newMeal = meals.get(name)
+    if(newMeal.isDefined) newMeal.get.eat
+    else println("Meal not found.")
+}
 
-def calories(food: Food) = food.calories
+def calories(food: Food) = println(food.calories)
 def calories(meal: Meal) = {
     var total = 0
-    for (food <- meal.foods) {
-        total += food.calories
+    for (food <- meal.foodList) {
+        total = total + food.calories
     }
-    total
+    println(total)
+}
+def calories (name: String) : Unit = {
+    val food = loggedFoods.get(name)
+    if (food.isDefined) {
+        println(food.get.calories)
+    }
+    val meal = meals.get(name)
+    if (meal.isDefined) {
+        calories(meal.get)
+    }
 }
