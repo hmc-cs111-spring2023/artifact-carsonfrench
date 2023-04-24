@@ -2305,3 +2305,4 @@ INFO: Schema "PUBLIC" is up to date. No migration necessary.
 2023.04.24 03:20:50 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2023.04.24 03:20:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
 2023.04.24 03:20:56 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.24 03:20:59 INFO  time: code lens generation in 8.16s
