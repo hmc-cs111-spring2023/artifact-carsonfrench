@@ -2857,3 +2857,178 @@ WARNING: Unmatched cancel notification for request id 1322
 2023.04.24 21:27:30 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
 2023.04.24 21:28:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/weight.scala
 2023.04.24 21:28:25 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:29:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/time.scala
+2023.04.24 21:30:31 INFO  Shutting down server
+2023.04.24 21:30:31 INFO  shutting down Metals
+2023.04.24 21:30:31 INFO  Exiting server
+2023.04.24 21:58:08 INFO  Started: Metals version 0.11.12 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+Apr 24, 2023 9:58:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 24, 2023 9:58:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 24, 2023 9:58:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Apr 24, 2023 9:58:09 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/workspaces/artifact-carsonfrench/.metals/metals (H2 2.1)
+Apr 24, 2023 9:58:09 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.062s)
+Apr 24, 2023 9:58:09 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Apr 24, 2023 9:58:09 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.24 21:58:09 INFO  time: initialize in 0.99s
+2023.04.24 21:58:12 WARN  Build server is not auto-connectable.
+2023.04.24 21:58:12 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.24 21:58:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.24 21:58:18 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.24 21:58:21 INFO  time: code lens generation in 7.61s
+2023.04.26 20:49:57 INFO  Started: Metals version 0.11.12 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+Apr 26, 2023 8:49:57 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 26, 2023 8:49:57 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 26, 2023 8:49:57 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Apr 26, 2023 8:50:01 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/workspaces/artifact-carsonfrench/.metals/metals (H2 2.1)
+Apr 26, 2023 8:50:01 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.032s)
+Apr 26, 2023 8:50:01 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Apr 26, 2023 8:50:01 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.26 20:50:01 INFO  time: initialize in 4.19s
+2023.04.26 20:50:04 WARN  Build server is not auto-connectable.
+2023.04.26 20:50:04 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.26 20:50:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 20:50:10 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.26 20:50:13 INFO  time: code lens generation in 8.2s
+2023.04.26 20:50:53 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:55:32 INFO  Started: Metals version 0.11.12 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/workspaces/artifact-carsonfrench/.metals/metals (H2 2.1)
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.024s)
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Apr 26, 2023 8:55:33 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.26 20:55:33 INFO  time: initialize in 0.54s
+2023.04.26 20:55:37 WARN  Build server is not auto-connectable.
+2023.04.26 20:55:37 WARN  no build tool detected in workspace '/workspaces/artifact-carsonfrench'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.26 20:55:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:55:43 INFO  no build target found for /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.26 20:55:44 INFO  time: code lens generation in 5.41s
+2023.04.26 20:55:44 INFO  time: code lens generation in 7.12s
+2023.04.26 20:58:36 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:58:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:58:39 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:58:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:58:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:58:51 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+Apr 26, 2023 8:58:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2023.04.26 20:58:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/Main.scala
+2023.04.26 20:59:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:59:31 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:59:33 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:59:34 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:59:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 20:59:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:00:22 INFO  Shutting down server
+2023.04.26 21:00:22 INFO  shutting down Metals
+2023.04.26 21:00:22 INFO  Exiting server
+2023.04.26 21:01:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:05 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:08 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:13 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:31 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:01:51 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/time.scala
+2023.04.26 21:02:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:03 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:17 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:20 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:28 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:34 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:02:40 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:01 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:04 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:14 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:17 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:21 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:03:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:10 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:11 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:22 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:32 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:37 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:38 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:04:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:05:58 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:05:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:01 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:02 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:11 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:12 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:06:23 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:07:55 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 21:07:59 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 21:08:06 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 21:08:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 21:08:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/food.scala
+2023.04.26 21:09:07 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:09:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:10:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:10:36 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:10:46 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:10:47 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:10:51 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:12:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+Apr 26, 2023 9:12:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 26, 2023 9:18:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1282
+2023.04.26 21:18:15 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:22:56 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:22:58 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:23:23 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:23:25 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:23:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/build.sbt
+2023.04.26 21:23:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:13 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:14 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:19 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:26 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:44 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:48 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:24:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:03 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:14 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:36 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:42 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:45 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:50 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:53 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:25:57 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:29:27 WARN  no build target for: /workspaces/artifact-carsonfrench/tracker/src/main/scala/graphs.scala
+2023.04.26 21:30:15 INFO  Started: Metals version 0.11.12 in workspace '/workspaces/artifact-carsonfrench' for client Visual Studio Code 1.77.3.
+Apr 26, 2023 9:30:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 26, 2023 9:30:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 26, 2023 9:30:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
