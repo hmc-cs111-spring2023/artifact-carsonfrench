@@ -5,7 +5,7 @@ var loggedFoods : Map[String, Food] = Map.empty[String, Food]
 var foodsEaten : List[Tuple2[Food,DateTime]] = List()
 var meals : Map[String,Meal] = Map.empty[String,Meal]
 
-class Food(val name: String, val calories: Int) {
+case class Food(val name: String, val calories: Int) {
     
     var tags : List[String] = List()
     def addTag(tag: String) = {
@@ -21,7 +21,7 @@ class Food(val name: String, val calories: Int) {
 }
 
 // maybe add tags?
-class Meal(val name: String, val foods: List[String]) {
+case class Meal(val name: String, val foods: List[String]) {
 
     var foodList : List[Food] = List()
     for (food <- foods) {

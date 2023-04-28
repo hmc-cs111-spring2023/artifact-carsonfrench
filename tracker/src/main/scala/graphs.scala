@@ -1,11 +1,10 @@
 import com.github.nscala_time.time.Imports._
 import com.datawizards.splot.api.implicits._
 
+case class FoodPlot(name: String, calories: Int, date: DateTime)
 
-
-def graph (data: String) = {
-    if (data == "weight")
-
+def graph = {
+    loggedFoods.plotline()
 }
 
 // def graph (data: String, start: DateTime)
