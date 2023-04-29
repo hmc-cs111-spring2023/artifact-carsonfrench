@@ -1,19 +1,17 @@
 import com.github.nscala_time.time.Imports._
 import scala.io.StdIn.readLine
 
-@main def hello: Unit =
-  weight(150)
-  weight(230, now)
-  weight(235, now - 3.weeks)
+@main def foodDemo: Unit =
+  food("burger", 100)
+  food("pizza", 200)
+  meal("lunch","pizza", "burger")
 
-  food("hamburger", 100, "sanwich")
-  food("hotdog", 112)
-  meal("BBQ", "hamburger", "hotdog")
-  calories("hamburger")
-  calories("hotdog")
-  calories("BBQ")
+  food("burger")
+  meal("lunch")
 
-  meal("BBQ")
-  food("hotdog")
-
+  food("banana", 50, "fruit")
   food("apple")
+  food("broccoli")
+
+
+  display (foods)

@@ -15,7 +15,7 @@ case class Food(val name: String, val calories: Int) {
     
     def log = loggedFoods = loggedFoods + (name -> this)
 
-    def eat = foodsEaten :+ (this, now)
+    def eat = foodsEaten = foodsEaten :+ (this, now)
 
     log
 }
